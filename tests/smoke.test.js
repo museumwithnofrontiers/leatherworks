@@ -37,7 +37,7 @@ describeGallerySmoke({
     },
     partner: {
       id: '8ea7243d-fe8e-5011-a9ca-75ebd26660ac',
-      name: 'Ministry of Culture, Directorate for Cultural Heritage',
+      name: 'Department of Culture, Directorate of Cultural Heritage',
       city: 'Rabat',
       country: 'Morocco',
       objects: 1,
